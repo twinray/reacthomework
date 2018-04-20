@@ -1,3 +1,21 @@
+This is my own personal ReadMe Notes:
+
+The project is a memory game. A better name for this project is "Click a Rock Star!" You can only click on a photo of a rockstar once.  There are twelve rockstars to choose from. 
+
+
+The Heroku file link is https://desolate-dawn-80146.herokuapp.com/
+...if you want to check it out live. 
+Feel free to grab any code that you want.
+
+It is true that this was created in React.js using create React package,  along with some CSS styling, some photo editing in photoshop, and a lot of trial and error. Some vanilla javaScript was mixed in there with JSX. 
+Enjoy!
+
+- Jeff Ray
+
+
+Below is the ReadME that came with create React...
+-------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
